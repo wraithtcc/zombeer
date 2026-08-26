@@ -21,3 +21,7 @@ Intel Core i3, Intergrated Graphics, Windows 7/Vista, 2-4GB Ram, 100MB of free s
 
 ## When will the full game release??
 The full game already is in progress i am working on zombeer 24/7
+
+
+Picture of the Test Version:
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/80428431-7140-4b41-9de7-199d86ed8f2c" />
