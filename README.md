@@ -14,3 +14,10 @@ Compile Zoomber from source using the src in this repo or download the appimage/
 ### The minimum system requirements from Zombeer are:
 Intel Pentium, Intergrated Graphics, Windows XP, 2GB Ram
 (This setup would manage around 500-400 FPS in-game)
+
+### Reccomended Specifications
+Intel Core i3, Intergrated Graphics, Windows 7/Vista, 2-4GB Ram
+(This setup would manage around 1000-2000 FPS in-game)
+
+## When will the full game release??
+The full game already is in progress i am working on zombeer 24/7
