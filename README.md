@@ -1,6 +1,7 @@
 # Zombeer 
 An Simple zombie game written fully in c++ that uses its own game engine called "ZombeerEngine"
 
+# Development stopped until 3rd september 2026
 
 ## Website
 https://zombeer.html-5.me/
